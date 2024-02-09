@@ -1,15 +1,16 @@
 # downtown-runaround
 
-## Table of Contents
-- [Description] (#description)
-- [Video Demonstration] (#video-demonstration)
-- [Installation] (#installation)
+- [downtown-runaround](#downtown-runaround)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Video Demonstration](#video-demonstration)
 
-## description
+
+## Description
 Struggle to make professional styled README files? Use this CLI application to seamlessly make a professional README file, catered to your project!
 
-## installation
+## Installation
 Access the intergrated terminal, type "npm i", then after all packages are installed type "node index.js"
 
-## video-demonstration 
+## Video Demonstration 
 [link] https://drive.google.com/file/d/1bQtmMdY3umWGWCXbDZqtiqOdNGg5oqRZ/view
